@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ricardo
 - 👀 I’m interested in NLP, statistics and theoretical computer science
-- 🌱 I’m currently learning a little of everything, including the Rust programming language
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me: drpedrazas94@gmail.com
 
